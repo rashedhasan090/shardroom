@@ -11,7 +11,7 @@ export function SiteFooter() {
         >
           Md Rashedul Hasan
         </a>
-        . Not affiliated with SwarmLLM.
+        .
       </p>
       <p className="mt-2 text-clay-400/70">
         Prompts stay in the browser mesh. PeerJS is used only to introduce devices.

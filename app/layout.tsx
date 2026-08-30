@@ -21,7 +21,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: "Shardroom",
-    description: "Browser mesh-inference rooms. Original work, not affiliated with SwarmLLM.",
+    description: "Browser mesh-inference rooms.",
     url: "https://shardroom.mdrashedulhasan.me",
     siteName: "Shardroom",
     type: "website",

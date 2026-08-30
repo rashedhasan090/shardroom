@@ -4,7 +4,7 @@ A kiln for leftover compute.
 
 Shardroom is a browser app where everyday devices join a room with a **four-letter mark**, sit in a WebRTC mesh, and **recite the same words as they appear**. Each device is weighed (RAM, WebGPU, cores). The strongest shard — the *kiln-bearer* — runs a **small in-browser model**. Tokens are broadcast around the ring so every screen stays in lockstep.
 
-This is original work by [Md Rashedul Hasan](https://www.mdrashedulhasan.me). It is **not affiliated with SwarmLLM**.
+This is original work by [Md Rashedul Hasan](https://www.mdrashedulhasan.me).
 
 ## Honest scope
 
